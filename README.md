@@ -126,6 +126,36 @@ A Streamlit-based web application was developed where users can:
 
 ---
 
+## Output Screenshots
+
+### Dataset Preview
+![Dataset](outputs/dataset_preview.png)
+
+### Data Preprocessing
+![Preprocessing](outputs/data_preprocessing.png)
+
+### Income vs Loan Approval
+![Income](outputs/income_vs_loan.png)
+
+### Credit History vs Loan Approval
+![Credit](outputs/credit_history.png)
+
+### Model Performance
+![Metrics](outputs/model_metrics.png)
+
+### Confusion Matrix
+![Confusion](outputs/confusion_matrix.png)
+
+### Loan Rejected Output
+![Rejected](outputs/prediction_rejected.png)
+
+### Loan Approved Output
+![Approved](outputs/prediction_approved.png)
+
+These outputs demonstrate how the system analyzes applicant details and predicts loan approval status using machine learning models.
+
+---
+
 ## Live Demo
     https://loan-approval-prediction-varshini.streamlit.app
 
